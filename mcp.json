@@ -1,0 +1,62 @@
+{
+  "name": "Auckland Bus Glass Specialists",
+  "description": "Bus and coach windscreen and glass replacement across Auckland. Large flat and curved laminated panels, multiple bonded side windows. Mobile fitting at depots, same-day service, insurance claims handled.",
+  "website": "https://aucklandbusglass.co.nz",
+  "contact": {
+    "phone": "0800-563-563",
+    "mobile": "021-757-985",
+    "email": "machglass@gmail.com",
+    "hours": "Monday-Friday, 8:00 AM - 5:00 PM"
+  },
+  "services": [
+    {
+      "name": "Bus Windscreen Replacement",
+      "url": "https://aucklandbusglass.co.nz/"
+    },
+    {
+      "name": "Side Glass",
+      "url": "https://aucklandbusglass.co.nz/"
+    },
+    {
+      "name": "Rear & Back Glass",
+      "url": "https://aucklandbusglass.co.nz/"
+    },
+    {
+      "name": "Insurance Claims",
+      "url": "https://aucklandbusglass.co.nz/"
+    },
+    {
+      "name": "Mobile Fitting",
+      "url": "https://aucklandbusglass.co.nz/"
+    }
+  ],
+  "specialty": "Bus and coach glass for fleets",
+  "areas": [
+    "Auckland"
+  ],
+  "insurance_partners": [
+    "AA",
+    "AMI",
+    "AMP",
+    "ANZ",
+    "ASB",
+    "BNZ",
+    "Covi",
+    "FMG",
+    "IAG",
+    "Lumley",
+    "NZI",
+    "QBE",
+    "State",
+    "Vero",
+    "Zurich"
+  ],
+  "key_pages": {
+    "homepage": "https://aucklandbusglass.co.nz/",
+    "contact": "https://aucklandbusglass.co.nz/contact.html"
+  },
+  "sitemap": "https://aucklandbusglass.co.nz/sitemap.xml",
+  "robots": "https://aucklandbusglass.co.nz/robots.txt",
+  "llms": "https://aucklandbusglass.co.nz/llms.txt",
+  "mcp": "https://aucklandbusglass.co.nz/.well-known/mcp.json"
+}
